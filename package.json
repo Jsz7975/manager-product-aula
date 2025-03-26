@@ -1,0 +1,12 @@
+{
+  "name": "manager-product",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Francisco Souza",
+  "license": "ISC",
+  "description": "Gerenciador de Estoque simples criado para o Curso Tecnico em Informatica"
+}

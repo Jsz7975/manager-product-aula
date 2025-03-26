@@ -24,5 +24,5 @@
 [x] Conferir ou instalar Xampp
 [x] Conferir Xampp - MySQL, PHP e APACHE
 [x] Conferir navegadores e ferramentas do desenvolvedor
-[ ] Criar repositorio no Github
-[ ] Inicializar o NPM
+[x] Criar repositorio no Github
+[x] Inicializar o NPM
