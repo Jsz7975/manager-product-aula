@@ -1,3 +1,17 @@
+# Dependencias
+node_modules/
+package-lock.json
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
 # Compiled class file
 *.class
 
