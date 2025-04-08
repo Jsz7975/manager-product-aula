@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dependencies
 node_modules/
 package-lock.json
@@ -8,6 +9,18 @@ package-lock.json
 .env.*local
 
 #Logs
+=======
+# Dependencias
+node_modules/
+package-lock.json
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.*.local
+
+# Logs
+>>>>>>> 29806ac3f9667be84374887527a4074e19d1791b
 logs
 *.log
 npm-debug.log*
